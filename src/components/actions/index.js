@@ -1,1 +1,1 @@
-export { ADD_FEATURE, addFeature } from './carActions';
+export { ADD_FEATURE, addFeature, REMOVE_FEATURE, removeItem } from './carActions';
